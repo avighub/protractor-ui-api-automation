@@ -1,0 +1,17 @@
+{
+  "name": "dummyrest-api-nodejs",
+  "version": "1.0.0",
+  "description": "Dummy Rest API for testing purpose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avishek Behera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "nodemon": "^2.0.3"
+  }
+}
